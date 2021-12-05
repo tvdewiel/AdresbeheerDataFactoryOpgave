@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdresbeheerDomain.Services.AdresService">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAAAAAAAAAAMAAABAAAAAAAAACAAACAAAAAA=</HashCode>
+      <FileName>Services\AdresService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdresbeheerDomain.Services.GemeenteService">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAgAAAAAAAAAEAAAACAAAEAAAAAAAAIAAAAAg=</HashCode>
+      <FileName>Services\GemeenteService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdresbeheerDomain.Services.StraatService">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAABAAgAAAEAAAAAABCAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\StraatService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
